@@ -6,4 +6,4 @@
 
 No idea what I'm typing
 
-## Check this new [test](second_page) out!
+## Check this new [test](second_page) out! You won't regret it!
