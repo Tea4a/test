@@ -1,3 +1,3 @@
-WOW what an amawing test! 
+# WOW what an amawing test! 
 I bet you didn't expect this ;)
 Check out more amazing tests [here](./)
